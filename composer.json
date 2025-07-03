@@ -1,5 +1,5 @@
 {
-	"name": "codeception/module-mongodb",
+	"name": "lenivezzz/module-mongodb",
 	"description": "MongoDB module for Codeception",
 	"keywords": [ "codeception", "mongodb" ],
 	"homepage": "https://codeception.com/",
